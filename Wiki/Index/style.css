@@ -1361,13 +1361,13 @@ tbody tr:hover
 }
 .sshh{
   text-decoration: none;
-  color:black;
+  color:rgb(255, 133, 102);
   transition: 0.15s;
 }
 
 .sshh:hover{
   text-decoration: none;
-  color:tomato;
+  color:rgb(255, 0, 53);
   transition: 0.15s;
 }
 
