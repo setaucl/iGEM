@@ -610,6 +610,7 @@ section.section2
     text-align: center;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    line-height: 1rem;
 }
 
 .h1_igem_subpage1 {
@@ -620,6 +621,7 @@ section.section2
     text-align: center;
     padding-top: 7rem;
     padding-bottom: 1rem;
+    line-height: 1rem;
 }
 
 .h1_igem_subpage2 {
@@ -628,6 +630,7 @@ section.section2
     font-size: 5rem;
     color: rgba(242, 77, 25,1);
     text-align: center;
+    line-height: 1rem;
 }
 
 .h1_igem_subpage3 {
@@ -638,6 +641,7 @@ section.section2
     text-align: center;
     padding-top: 7rem;
     padding-bottom: 2rem;
+    line-height: 1rem;
 }
 
 @media screen and (max-width: 401px) {
