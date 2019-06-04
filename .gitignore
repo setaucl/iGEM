@@ -1,1 +1,5 @@
+#ignoring specific checkpoint files
 .DS_Store
+
+#ignoring specific directories
+Wiki/Drafts/daniel/
